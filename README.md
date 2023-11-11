@@ -37,13 +37,17 @@
 
 ## Haskell
 - [Installation](https://www.haskell.org/ghcup/)
+- [Our Examples](Assets/Haskell)
 
 ### Resources
+- [Haskell Playground](https://play.haskell.org/)
 - [Learn you Haskell](http://learnyouahaskell.com/chapters)
 - [Introductory Haskell course of the University of Pennsylvania (CIS194)](https://www.seas.upenn.edu/~cis1940/spring13/lectures.html)
 
 ## Rust
 - [Installation](https://www.rust-lang.org/tools/install)
+- [Our Examples](Assets/Rust)
 
 ### Resources
+- [Rust Playground](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021)
 - [Book](https://doc.rust-lang.org/book/)
