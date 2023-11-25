@@ -41,8 +41,11 @@
 
 ### Resources
 - [Haskell Playground](https://play.haskell.org/)
+- [Hoogle - Haskell API Search Engine](https://hoogle.haskell.org/)
+- [Hackage - The Haskell Package Repository](https://hackage.haskell.org/)
 - [Learn you Haskell](http://learnyouahaskell.com/chapters)
 - [Introductory Haskell course of the University of Pennsylvania (CIS194)](https://www.seas.upenn.edu/~cis1940/spring13/lectures.html)
+- [DelftX: Introduction to Functional Programming](https://www.edx.org/learn/computer-programming/delft-university-of-technology-introduction-to-functional-programming)
 
 ## Rust
 - [Installation](https://www.rust-lang.org/tools/install)
