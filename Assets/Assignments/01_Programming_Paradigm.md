@@ -2,40 +2,34 @@
 ![](https://img.shields.io/badge/Batch-21CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-PPL-blue) <br/>
 ![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange)
 
-## Title: Exploring Programming Paradigms in Common Programming Languages
+## Assignment - 01: Exploring Programming Paradigms in Common Programming Languages
 
 ### Objective:
 The objective of this assignment is to deepen your understanding of programming paradigms, reinforce your knowledge of previously studied programming languages (C, C++, Java, Python, and JavaScript), and prepare you for the upcoming Principles of Programming Language course.
 
 #### Assignment Components:
 
-1. Introduction and Paradigm Selection:
+- Introduction and Paradigm Selection:
+  - Two programming paradigms for exploring.
 
-- Two programming paradigms for exploring.
+- Research:
+  - Investigate how the selected paradigms are implemented.
+  - Explore key language features that align with each paradigm.
 
-2. Research:
+- Comparative Analysis and Case Studies:
+  - Compare how the selected paradigms are expressed in the common languages.
+  - Identify and analyze real-world projects or applications that use these paradigms in the specified languages.
 
-- Investigate how the selected paradigms are implemented.
-- Explore key language features that align with each paradigm.
+- Presentation Preparation:
+  - Concise presentations.
+  - Inclusion of code snippets and examples from the common languages.
 
-3. Comparative Analysis and Case Studies:
+- Presentations:
+  - 10-15 minutes per presentation.
+  - Questions and brief discussions after each presentation.
 
-- Compare how the selected paradigms are expressed in the common languages.
-- Identify and analyze real-world projects or applications that use these paradigms in the specified languages.
-
-4. Presentation Preparation:
-
-- Concise presentations.
-- Inclusion of code snippets and examples from the common languages.
-
-5. Presentations:
-
-- 10-15 minutes per presentation.
-- Questions and brief discussions after each presentation.
-
-6. Reflection and Report:
-
-Submit a short report summarizing their key findings (2-3 pages).
+- Reflection and Report:
+  - Submit a short report summarizing their key findings (2-3 pages).
 
 #### Submission:
 
@@ -82,7 +76,6 @@ Submit a short report summarizing their key findings (2-3 pages).
 | 26      | Declarative (XSLT), Scripting (PowerShell)  |
 | 27      | Object-Oriented (TypeScript), Concurrent (Clojure)|
 | 28      | Procedural (Ada), Event-Driven (Vue.js)     |
-| 29      | Imperative (MATLAB), Dataflow (LabVIEW)     |
 | 30      | Functional (Ocaml), Logic (Oz)              |
 | 31      | Reactive (Vue.js), Aspect-Oriented (AspectC++)|
 | 32      | Scripting (Bash), Meta-Programming (Julia)  |
@@ -107,18 +100,16 @@ Submit a short report summarizing their key findings (2-3 pages).
 | 51      | Object-Oriented (C#), Imperative (Fortran) |
 | 52      | Dataflow (Blender Game Engine), Event-Driven (TypeScript)|
 | 53      | Reactive (Angular), Logic (Datalog)         |
-| 54      | Aspect-Oriented (JBoss AOP), Imperative (Rust)|
-| 55      | Functional (Scala), Declarative (HiveQL)   |
-| 56      | Scripting (Lua), Object-Oriented (Kotlin)  |
-| 57      | Logic (MiniZinc), Concurrent (Akka)        |
-| 58      | Imperative (Objective-C), Event-Driven (Node.js)|
+| 54      | Functional (Scala), Declarative (HiveQL)   |
+| 55      | Scripting (Lua), Object-Oriented (Kotlin)  |
+| 56      | Logic (MiniZinc), Concurrent (Akka)        |
+| 57      | Imperative (Objective-C), Event-Driven (Node.js)|
 | 59      | Reactive (Dart), Aspect-Oriented (Django)  |
 | 60      | Meta-Programming (Groovy), Scripting (Shell)|
 | 61      | Logic (ASP.NET), Scripting (PowerShell)    |
 | 62      | Concurrent (Clojure), Procedural (Ada)     |
 | 63      | Event-Driven (Vue.js), Imperative (MATLAB) |
 | 64      | Dataflow (LabVIEW), Functional (Ocaml)     |
-| 65      | Logic (Oz), Reactive (Vue.js)              |
 | 66      | Aspect-Oriented (AspectC++), Scripting (Bash)|
 | 67      | Meta-Programming (Julia), Declarative (Haskell)|
 | 68      | Object-Oriented (PHP), Imperative (COBOL) |
@@ -140,3 +131,6 @@ Submit a short report summarizing their key findings (2-3 pages).
 | 84      | Procedural (Pascal), Dataflow (Blender Game Engine)|
 | 85      | Reactive (ReactJS), Logic (Datalog)        |
 | 86      | Object-Oriented (Ruby), Aspect-Oriented (JBoss AOP)|
+| 87     | Imperative (MATLAB), Dataflow (LabVIEW)     |
+| 89    | Aspect-Oriented (JBoss AOP), Imperative (Rust)|
+| 90      | Logic (Oz), Reactive (Vue.js)              |
