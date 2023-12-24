@@ -35,6 +35,20 @@
 | 16 | Rust: Iterator and Closure | |
 | 17 | Rust: References, Concurrency | |
 
+### Dates and Deadlines
+
+| Course Start | 08 - Jan - 2024 |
+|--------------|-----------------|
+| Assignment - 1 | 22 - Jan - 2024 |
+| Haskell Tutorial - 1 | Jan - 2024 |
+| Haskell Tutorial - 2 | Feb - 2024 |
+| Haskell Quiz 1 | Feb - 2024 |
+| Haskell Lab Evaluation - 1 | Feb - 2023 |
+| Haskell Tutorial - 3 | Feb - 2024 |
+| Haskell Tutorial - 4 | Feb - 2024 |
+| Haskell Lab Evaluation - 2 | Mar - 2023 |
+| Mid-Term Exam | Mar - 2023 |
+
 ## Haskell
 - [Installation](https://www.haskell.org/ghcup/)
 - [Our Examples](Assets/Haskell)
