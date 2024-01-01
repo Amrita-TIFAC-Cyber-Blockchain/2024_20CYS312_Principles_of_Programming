@@ -2,39 +2,42 @@
 ![](https://img.shields.io/badge/Batch-21CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-PPL-blue) <br/>
 ![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange)
 
-## Assignment - 01: Exploring Programming Paradigms in Common Programming Languages
+## Assignment - 01: Exploring Programming Paradigms in Common Programming Languages 
 
+- Date of Start: ![](https://img.shields.io/badge/-9th_Jan-green)
+- Date of Submission: ![](https://img.shields.io/badge/-22nd_Jan-red)
+  
 ### Objective:
 The objective of this assignment is to deepen your understanding of programming paradigms, reinforce your knowledge of previously studied programming languages (C, C++, Java, Python, and JavaScript), and prepare you for the upcoming Principles of Programming Language course.
 
 #### Assignment Components:
 
-- Introduction and Paradigm Selection:
-  - Two programming paradigms for exploring.
+- **Introduction and Paradigm Selection:**
+  - Two programming paradigms for exploring - ![](https://img.shields.io/badge/-Completed-darkgreen)
 
-- Research:
+- **Research:**
   - Investigate how the selected paradigms are implemented.
   - Explore key language features that align with each paradigm.
 
-- Comparative Analysis and Case Studies:
+- **Comparative Analysis and Case Studies:**
   - Compare how the selected paradigms are expressed in the common languages.
   - Identify and analyze real-world projects or applications that use these paradigms in the specified languages.
 
-- Presentation Preparation:
+- **Presentation Preparation:**
   - Concise presentations.
   - Inclusion of code snippets and examples from the common languages.
 
-- Presentations:
-  - 10-15 minutes per presentation.
+- **Presentations: (5 Marks)**
+  - 15-20 minutes per presentation.
   - Questions and brief discussions after each presentation.
 
-- Reflection and Report:
-  - Submit a short report summarizing their key findings (2-3 pages).
+- **Reflection and Report: (5 Marks)**
+  - Submit a short report summarizing their key findings (4-5 pages).
 
 #### Submission:
 
 - Presentations can be conducted in-person.
-- Reports should be submitted electronically.
+- Reports should be submitted electronically via AUMS.
 
 #### Grading Criteria:
 
