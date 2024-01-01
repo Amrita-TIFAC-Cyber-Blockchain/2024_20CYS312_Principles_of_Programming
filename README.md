@@ -18,22 +18,29 @@
 |:-----------:|-------|:------------:|
 | # | Course and Class Introduction  | |
 | 1 | Programming Paradigms - Overview of various Programming Paradigms  |  |
+| **#** | **Assignment - 1** |  |
 | 2 | Programming with Haskell |  |
 | 3 | Haskell: GHCi interpreter  |  |
 | 4 | Haskell: functions and types  |  |
 | 5 | Haskell: functional composition  |  |
+| **#** | **Quiz - 1**| |
 | 6 | Haskell: numbers, lists, tuples |  |
 | 7 | Haskell: type classes, pattern matching  |  |
 | 8 | Haskell: higher order functions: currying, lambdas, maps and filters folds, IO monad. | |
+| **#** | **Quiz - 2** | | 
+| **#** | **Mid-Term Examination** | | 
 | 9 | Introduction to Rust  | |
 | 10 | Rust: Data types, Operators, Decision Making, Loops | |
 | 11 | Rust: Functions, Tuple and Array | |
 | 12 | Rust: Ownership, Borrowing, Slices | |
-| 13 | Rust: Structure, Modules, Collections | |
+| 13 | Rust: Structure, Modules, Collections | 
+| **#**  | **Quiz - 3** |
 | 14 | Rust:  Error Handling, File | | 
 | 15 | Rust: Input and Output, Package Manager | |
 | 16 | Rust: Iterator and Closure | |
 | 17 | Rust: References, Concurrency | |
+| **#**  | **Quiz - 4** |
+| **#**  | **End-Semester Examination** |
 
 ### Dates and Deadlines
 
