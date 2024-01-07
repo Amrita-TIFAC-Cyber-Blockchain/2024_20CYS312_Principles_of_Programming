@@ -2,6 +2,8 @@
 ![](https://img.shields.io/badge/Batch-21CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-PPL-blue) <br/>
 ![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange)
 
+#### Pre-requisite: 20CYS113 - Computer Programming and 19CSE201 - Advanced Programming
+
 #### Course Instructor:  Ramaguru R, Assistant Professor (Senior Grade), TIFAC-CORE in Cyber Security.
 
 ### :books: Course Outcome
@@ -47,14 +49,13 @@
 | Course Start | 08 - Jan - 2024 |
 |--------------|-----------------|
 | Assignment - 1 | 22 - Jan - 2024 |
-| Haskell Tutorial - 1 | Jan - 2024 |
-| Haskell Tutorial - 2 | Feb - 2024 |
-| Haskell Quiz 1 | Feb - 2024 |
-| Haskell Lab Evaluation - 1 | Feb - 2023 |
-| Haskell Tutorial - 3 | Feb - 2024 |
-| Haskell Tutorial - 4 | Feb - 2024 |
-| Haskell Lab Evaluation - 2 | Mar - 2023 |
-| Mid-Term Exam | Mar - 2023 |
+| Haskell Tutorial - 1 | 31 - Jan - 2024 |
+| Haskell Quiz 1 | 6 - Feb - 2024 |
+| Haskell Lab Evaluation - 1 | 6 - Feb - 2024 |
+| Haskell Tutorial - 2 | 14 - Feb - 2024 |
+| Haskell Lab Evaluation - 2 | 27 - Feb - 2024 |
+| Assignment - 2 | 5 - Mar - 2024 |
+| Mid-Term Exam | Mar - 2024 |
 
 ## Haskell
 - [Installation](https://www.haskell.org/ghcup/)
