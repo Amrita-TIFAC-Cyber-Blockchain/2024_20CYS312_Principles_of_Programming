@@ -16,32 +16,32 @@
 
 ### :watch: Course Plan and Status
 
-| Lecture No. | Topic | No. of Hours |
-|:-----------:|-------|:------------:|
-| # | Course and Class Introduction  | ![](https://img.shields.io/badge/-08th_Jan-orange) |
-| 1 | Programming Paradigms - Overview of various Programming Paradigms  | ![](https://img.shields.io/badge/-09th_Jan-orange) |
-| **#** | **Assignment - 1: Opens** | ![](https://img.shields.io/badge/-09th_Jan-brown) |
-| 2 | Introduction to Functional Programming | ![](https://img.shields.io/badge/-09th_Jan-brown) |
-| 2 | Programming with Haskell | ![](https://img.shields.io/badge/-09th_Jan-orange) ![](https://img.shields.io/badge/-10th_Jan-orange) |
-| 3 | Haskell: GHCi interpreter  | ![](https://img.shields.io/badge/-22nd_Jan-brown) |
-| 4 | Haskell: functions and types  |  |
-| 5 | Haskell: functional composition  |  |
-| **#** | **Quiz - 1**| ![](https://img.shields.io/badge/-6th_Feb-gold) |
-| 6 | Haskell: numbers, lists, tuples |  |
-| 7 | Haskell: type classes, pattern matching  |  |
-| 8 | Haskell: higher order functions: currying, lambdas, maps and filters folds, IO monad. | |
-| **#** | **Quiz - 2** | ![](https://img.shields.io/badge/-28th_Feb-gold) | 
+| Lecture No. | Topic | CO | No. of Hours |
+|:-----------:|-------|:---:|:------------:|
+| # | Course and Class Introduction  | # | ![](https://img.shields.io/badge/-08th_Jan-orange) |
+| 1 | Programming Paradigms - Overview of various Programming Paradigms  | # | ![](https://img.shields.io/badge/-09th_Jan-orange) |
+| **#** | **Assignment - 1: Opens** | CO1 | ![](https://img.shields.io/badge/-09th_Jan-brown) |
+| 2 | Introduction to Functional Programming | CO1 | ![](https://img.shields.io/badge/-09th_Jan-brown) |
+| 2 | Programming with Haskell | CO1 | ![](https://img.shields.io/badge/-09th_Jan-orange) ![](https://img.shields.io/badge/-10th_Jan-orange) |
+| 3 | Haskell: GHCi interpreter  | CO1 | ![](https://img.shields.io/badge/-22nd_Jan-brown) |
+| 4 | Haskell: functions and types  |  CO1 | |
+| 5 | Haskell: functional composition  |  CO1 | |
+| **#** | **Quiz - 1**| CO1 | ![](https://img.shields.io/badge/-6th_Feb-gold) |
+| 6 | Haskell: numbers, lists, tuples | CO1 | |
+| 7 | Haskell: type classes, pattern matching | CO1 | |
+| 8 | Haskell: higher order functions: currying, lambdas, maps and filters folds, IO monad. | CO1 | |
+| **#** | **Quiz - 2** | CO1 | ![](https://img.shields.io/badge/-28th_Feb-gold) | 
 | **#** | **Mid-Term Examination** | | 
-| 9 | Introduction to Rust  | |
-| 10 | Rust: Data types, Operators, Decision Making, Loops | |
-| 11 | Rust: Functions, Tuple and Array | |
-| 12 | Rust: Ownership, Borrowing, Slices | |
-| 13 | Rust: Structure, Modules, Collections | 
+| 9 | Introduction to Rust  | CO2 | |
+| 10 | Rust: Data types, Operators, Decision Making, Loops | CO2 | |
+| 11 | Rust: Functions, Tuple and Array | CO2 | |
+| 12 | Rust: Ownership, Borrowing, Slices | CO2 | |
+| 13 | Rust: Structure, Modules, Collections | CO2 | |
 | **#**  | **Quiz - 3** |
-| 14 | Rust:  Error Handling, File | | 
-| 15 | Rust: Input and Output, Package Manager | |
-| 16 | Rust: Iterator and Closure | |
-| 17 | Rust: References, Concurrency | |
+| 14 | Rust:  Error Handling, File | CO2 | |
+| 15 | Rust: Input and Output, Package Manager | CO2 | |
+| 16 | Rust: Iterator and Closure | CO2 | |
+| 17 | Rust: References, Concurrency | CO2 | |
 | **#**  | **Quiz - 4** |
 | **#**  | **End-Semester Examination** |
 
