@@ -20,9 +20,10 @@
 |:-----------:|-------|:------------:|
 | # | Course and Class Introduction  | ![](https://img.shields.io/badge/-08th_Jan-orange) |
 | 1 | Programming Paradigms - Overview of various Programming Paradigms  | ![](https://img.shields.io/badge/-09th_Jan-orange) |
-| **#** | **Assignment - 1** | ![](https://img.shields.io/badge/-09th_Jan-brown) |
-| 2 | Programming with Haskell | ![](https://img.shields.io/badge/-22nd_Jan-orange) |
-| 3 | Haskell: GHCi interpreter  | ![](https://img.shields.io/badge/-23rd_Jan-brown) |
+| **#** | **Assignment - 1: Opens** | ![](https://img.shields.io/badge/-09th_Jan-brown) |
+| 2 | Introduction to Functional Programming | ![](https://img.shields.io/badge/-09th_Jan-brown) |
+| 2 | Programming with Haskell | ![](https://img.shields.io/badge/-09th_Jan-orange) ![](https://img.shields.io/badge/-10th_Jan-orange) |
+| 3 | Haskell: GHCi interpreter  | ![](https://img.shields.io/badge/-22nd_Jan-brown) |
 | 4 | Haskell: functions and types  |  |
 | 5 | Haskell: functional composition  |  |
 | **#** | **Quiz - 1**| ![](https://img.shields.io/badge/-6th_Feb-gold) |
@@ -57,6 +58,7 @@
 | Haskell Lab Evaluation - 2 | 27 - Feb - 2024 |
 | Assignment - 2 | 5 - Mar - 2024 |
 | Mid-Term Exam | Mar - 2024 |
+| Rust |  TBD |
 
 ## Haskell
 - [Installation](https://www.haskell.org/ghcup/)
