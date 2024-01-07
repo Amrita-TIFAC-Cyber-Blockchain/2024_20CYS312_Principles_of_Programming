@@ -1,6 +1,6 @@
 # 20CYS312 - Principles of Programming Languages
 ![](https://img.shields.io/badge/Batch-21CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-PPL-blue) <br/>
-![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange)
+![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) <br/> ![](https://img.shields.io/badge/Students-85-gold)
 
 #### Pre-requisite: 20CYS113 - Computer Programming and 19CSE201 - Advanced Programming
 
@@ -18,18 +18,18 @@
 
 | Lecture No. | Topic | No. of Hours |
 |:-----------:|-------|:------------:|
-| # | Course and Class Introduction  | |
-| 1 | Programming Paradigms - Overview of various Programming Paradigms  |  |
-| **#** | **Assignment - 1** |  |
-| 2 | Programming with Haskell |  |
-| 3 | Haskell: GHCi interpreter  |  |
+| # | Course and Class Introduction  | ![](https://img.shields.io/badge/-08th_Jan-orange) |
+| 1 | Programming Paradigms - Overview of various Programming Paradigms  | ![](https://img.shields.io/badge/-09th_Jan-orange) |
+| **#** | **Assignment - 1** | ![](https://img.shields.io/badge/-09th_Jan-brown) |
+| 2 | Programming with Haskell | ![](https://img.shields.io/badge/-22nd_Jan-orange) |
+| 3 | Haskell: GHCi interpreter  | ![](https://img.shields.io/badge/-23rd_Jan-brown) |
 | 4 | Haskell: functions and types  |  |
 | 5 | Haskell: functional composition  |  |
-| **#** | **Quiz - 1**| |
+| **#** | **Quiz - 1**| ![](https://img.shields.io/badge/-6th_Feb-gold) |
 | 6 | Haskell: numbers, lists, tuples |  |
 | 7 | Haskell: type classes, pattern matching  |  |
 | 8 | Haskell: higher order functions: currying, lambdas, maps and filters folds, IO monad. | |
-| **#** | **Quiz - 2** | | 
+| **#** | **Quiz - 2** | ![](https://img.shields.io/badge/-28th_Feb-gold) | 
 | **#** | **Mid-Term Examination** | | 
 | 9 | Introduction to Rust  | |
 | 10 | Rust: Data types, Operators, Decision Making, Loops | |
@@ -50,9 +50,10 @@
 |--------------|-----------------|
 | Assignment - 1 | 22 - Jan - 2024 |
 | Haskell Tutorial - 1 | 31 - Jan - 2024 |
-| Haskell Quiz 1 | 6 - Feb - 2024 |
+| Haskell Quiz - 1 | 6 - Feb - 2024 |
 | Haskell Lab Evaluation - 1 | 6 - Feb - 2024 |
 | Haskell Tutorial - 2 | 14 - Feb - 2024 |
+| Haskell Quiz - 2 | 28 - Feb - 2024 |
 | Haskell Lab Evaluation - 2 | 27 - Feb - 2024 |
 | Assignment - 2 | 5 - Mar - 2024 |
 | Mid-Term Exam | Mar - 2024 |
