@@ -36,8 +36,8 @@ The objective of this assignment is to deepen your understanding of programming 
 
 #### Submission:
 
-- Presentations can be conducted in-person.
-- Reports should be submitted electronically via AUMS.
+- Presentations (in Latex Format) and Report should be submitted electronically via [AUMS](https://aumscb.amrita.edu/portal/site/67606/tool/5b707dc3-1d16-4617-a460-cb455024799a?null).
+- Presentations can be conducted in-person  ![](https://img.shields.io/badge/-12th_Feb_to_17th_Feb-darkgreen)
 
 #### Grading Criteria:
 
@@ -47,8 +47,7 @@ The objective of this assignment is to deepen your understanding of programming 
 - Relevance and insightfulness of case studies.
 - Critical reflection in the report.
 
-#### Allotment
-
+### Allotment
 
 | Roll Number | Paradigm - 1  | Paradigm -2           | Report |
 |:---------:|-----------------|-------------------------|:---------:|
@@ -125,11 +124,11 @@ The objective of this assignment is to deepen your understanding of programming 
 | 74      | Imperative - **C++**  | Aspect-Oriented - **AspectJ** | [![](https://img.shields.io/badge/-Report-blue)](Submissions/21074/Assignment01-CYS21074_Report.pdf) <br/> [![](https://img.shields.io/badge/-Presentation-brown)](Submissions/21074/Assignment01-CYS21074_Presentation.pdf) |
 | 75      | Object-Oriented - **Python**  | Dataflow - **LabVIEW** | [![](https://img.shields.io/badge/-Report-blue)](Submissions/21075/Assignment01-CYS21075_Report.pdf) <br/> [![](https://img.shields.io/badge/-Presentation-brown)](Submissions/21075/Assignment01-CYS21075_Presentation.pdf) |
 | 76      | Reactive - **RxJava**  | Prototype-Based - **JavaScript** | [![](https://img.shields.io/badge/-Report-blue)](Submissions/21076/Assignment01-CYS21076_Report.pdf) <br/> [![](https://img.shields.io/badge/-Presentation-brown)](Submissions/21076/Assignment01-CYS21076_Presentation.pdf) |
-| 77      | Scripting - **Python**  | Meta-Programming - **Ruby** | [![](https://img.shields.io/badge/-Report-blue)](Submissions/21077/Assignment01-CYS21077_Report.pdf) <br/> [![](https://img.shields.io/badge/-Presentation-brown)](Submissions/21077/Assignment01-CYS21077_Presentation.pdf)_Presentation.pdf) |
+| 77      | Scripting - **Python**  | Meta-Programming - **Ruby** | [![](https://img.shields.io/badge/-Report-blue)](Submissions/21077/Assignment01-CYS21077_Report.pdf) <br/> [![](https://img.shields.io/badge/-Presentation-brown)](Submissions/21077/Assignment01-CYS21077_Presentation.pdf)) |
 | 78      | Functional - **F#**  | Logic - **Mercury**            | [![](https://img.shields.io/badge/-Report-blue)](Submissions/21078/Assignment01-CYS21078_Report.pdf) <br/> [![](https://img.shields.io/badge/-Presentation-brown)](Submissions/21078/Assignment01-CYS21078_Presentation.pdf) |
 | 79      | Object-Oriented - **C#**  | Aspect-Oriented - **Spring** | [![](https://img.shields.io/badge/-Report-blue)](Submissions/21079/Assignment01-CYS21079_Report.pdf) <br/> [![](https://img.shields.io/badge/-Presentation-brown)](Submissions/21079/Assignment01-CYS21079_Presentation.pdf) |
 | 80      | Imperative - **Fortran**  | Functional - **Elixir**   | [![](https://img.shields.io/badge/-Report-blue)](Submissions/21080/Assignment01-CYS21080_Report.pdf) <br/> [![](https://img.shields.io/badge/-Presentation-brown)](Submissions/21080/Assignment01-CYS21080_Presentation.pdf) |
-| 81      | Declarative - **R**  | Scripting - **Perl**           | [![](https://img.shields.io/badge/-Report-blue)](Submissions/21081/Assignment01-CYS21081_Report.pdf) <br/> [![](https://img.shields.io/badge/-Presentation-brown)](Submissions/21081/Assignment01-CYS21081_Presentation.pdf)_Presentation.pdf) |
+| 81      | Declarative - **R**  | Scripting - **Perl**           | [![](https://img.shields.io/badge/-Report-blue)](Submissions/21081/Assignment01-CYS21081_Report.pdf) <br/> [![](https://img.shields.io/badge/-Presentation-brown)](Submissions/21081/Assignment01-CYS21081_Presentation.pdf).pdf) |
 | 82      | Object-Oriented - **Swift**  | Concurrent - **Go**   | [![](https://img.shields.io/badge/-Report-blue)](Submissions/21082/Assignment01-CYS21082_Report.pdf) <br/> [![](https://img.shields.io/badge/-Presentation-brown)](Submissions/21082/Assignment01-CYS21082_Presentation.pdf) |
 | 83      | Functional - **Clojure**  | Event-Driven - **TypeScript** | [![](https://img.shields.io/badge/-Report-blue)](Submissions/21083/Assignment01-CYS21083_Report.pdf) <br/> [![](https://img.shields.io/badge/-Presentation-brown)](Submissions/21083/Assignment01-CYS21083_Presentation.pdf) |
 | 84      | Procedural - **Pascal**  | Dataflow - **Blender Game Engine** | [![](https://img.shields.io/badge/-Report-blue)](Submissions/21084/Assignment01-CYS21084_Report.pdf) <br/> [![](https://img.shields.io/badge/-Presentation-brown)](Submissions/21084/Assignment01-CYS21084_Presentation.pdf) |
