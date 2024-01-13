@@ -28,15 +28,15 @@ The objective of this assignment is to deepen your understanding of programming 
   - Inclusion of code snippets and examples from the common languages.
 
 - **Presentations: (5 Marks)**
-  - 15-20 minutes per presentation.
+  - **15-20 minutes per presentation.**
   - Questions and brief discussions after each presentation.
 
 - **Reflection and Report: (5 Marks)**
-  - Submit a report summarizing their key findings (20-25 pages).
+  - **Submit a report summarizing their key findings (20-25 pages).**
 
 #### Submission:
 
-- Presentations (in Latex Format) and Report should be submitted electronically via [AUMS](https://aumscb.amrita.edu/portal/site/67606/tool/5b707dc3-1d16-4617-a460-cb455024799a?null).
+- **Presentations and Report (in Latex Format)** should be submitted electronically via [AUMS](https://aumscb.amrita.edu/portal/site/67606/tool/5b707dc3-1d16-4617-a460-cb455024799a?null). [[Latex Templates](../Templates/) available here]
 - Presentations can be conducted in-person  ![](https://img.shields.io/badge/-12th_Feb_to_17th_Feb-darkgreen)
 
 #### Grading Criteria:
