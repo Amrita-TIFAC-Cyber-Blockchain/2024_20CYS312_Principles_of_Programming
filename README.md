@@ -23,7 +23,8 @@
 | **#** | **Assignment - 1: Opens** | CO1 | ![](https://img.shields.io/badge/-09th_Jan-brown) |
 | 2 | Introduction to Functional Programming | CO1 | ![](https://img.shields.io/badge/-23rd_Jan-brown) |
 | 2 | Programming with Haskell | CO1 | ![](https://img.shields.io/badge/-23rd_Jan-orange) |
-| 3 | Haskell: GHCi interpreter  | CO1 |  |
+| 3 | Haskell: GHCi interpreter  | CO1 |  ![](https://img.shields.io/badge/-23rd_Jan-orange)  ![](https://img.shields.io/badge/-24th_Jan-brown) |
+| **#** | **Tutorial Exercises - 1** | CO1 | Evaluate on next Lab |
 | 4 | Haskell: functions and types  |  CO1 | |
 | 5 | Haskell: functional composition  |  CO1 | |
 | **#** | **Quiz - 1**| CO1 | ![](https://img.shields.io/badge/-6th_Feb-gold) |
@@ -50,8 +51,8 @@
 | Course Start | 08 - Jan - 2024 |
 |--------------|-----------------|
 | **Assignment - 1: Opens** | 09 - Jan - 2024 |
-| Assignment - 1: Submission | 22 - Jan - 2024 |
-| Haskell Tutorial - 1 | 31 - Jan - 2024 |
+| Assignment - 1: Submission | 21 - Jan - 2024 |
+| Haskell Tutorial - 1 | 26 - Jan - 2024 |
 | Haskell Quiz - 1 | 6 - Feb - 2024 |
 | Haskell Lab Evaluation - 1 | 6 - Feb - 2024 |
 | Haskell Tutorial - 2 | 14 - Feb - 2024 |
