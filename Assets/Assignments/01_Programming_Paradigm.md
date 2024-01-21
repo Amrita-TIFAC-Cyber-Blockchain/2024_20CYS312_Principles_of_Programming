@@ -37,6 +37,9 @@ The objective of this assignment is to deepen your understanding of programming 
 #### Submission:
 
 - **Presentations and Report (in Latex Format)** should be submitted electronically via [AUMS](https://aumscb.amrita.edu/portal/site/67606/tool/5b707dc3-1d16-4617-a460-cb455024799a?null). [[Latex Templates](../Templates/) available here]
+- **File Naming Convention:**
+  - Assignment01-CYS210XX_Report.pdf
+  - Assignment01-CYS210XX_Presentation.pdf
 - Presentations can be conducted in-person  ![](https://img.shields.io/badge/-12th_Feb_to_17th_Feb-darkgreen)
 
 #### Grading Criteria:
@@ -107,7 +110,7 @@ The objective of this assignment is to deepen your understanding of programming 
 | 55      | Scripting - **Lua**  | Object-Oriented - **Kotlin**   | [![](https://img.shields.io/badge/-Report-blue)](Submissions/21055/Assignment01-CYS21055_Report.pdf) <br/> [![](https://img.shields.io/badge/-Presentation-brown)](Submissions/21055/Assignment01-CYS21055_Presentation.pdf) |
 | 56      | Logic - **MiniZinc**  | Concurrent - **Akka**         | [![](https://img.shields.io/badge/-Report-blue)](Submissions/21056/Assignment01-CYS21056_Report.pdf) <br/> [![](https://img.shields.io/badge/-Presentation-brown)](Submissions/21056/Assignment01-CYS21056_Presentation.pdf) |
 | 57      | Imperative - **Objective-C**  | Event-Driven - **Node.js** | [![](https://img.shields.io/badge/-Report-blue)](Submissions/21057/Assignment01-CYS21057_Report.pdf) <br/> [![](https://img.shields.io/badge/-Presentation-brown)](Submissions/21057/Assignment01-CYS21057_Presentation.pdf) |
-| 58     | Scripting - **Bash**  | Imperative - **Rust** | [![](https://img.shields.io/badge/-Report-blue)](Submissions/21057/Assignment01-CYS21057_Report.pdf) <br/> [![](https://img.shields.io/badge/-Presentation-brown)](Submissions/21057/Assignment01-CYS21057_Presentation.pdf) |
+| 58     | Scripting - **Bash**  | Imperative - **Rust** | [![](https://img.shields.io/badge/-Report-blue)](Submissions/21057/Assignment01-CYS21058_Report.pdf) <br/> [![](https://img.shields.io/badge/-Presentation-brown)](Submissions/21057/Assignment01-CYS21058_Presentation.pdf) |
 | 59      | Reactive - **Dart**  | Aspect-Oriented - **Django**   | [![](https://img.shields.io/badge/-Report-blue)](Submissions/21059/Assignment01-CYS21059_Report.pdf) <br/> [![](https://img.shields.io/badge/-Presentation-brown)](Submissions/21059/Assignment01-CYS21059_Presentation.pdf) |
 | 60      | Meta-Programming - **Groovy**  | Scripting - **Shell** | [![](https://img.shields.io/badge/-Report-blue)](Submissions/21060/Assignment01-CYS21060_Report.pdf) <br/> [![](https://img.shields.io/badge/-Presentation-brown)](Submissions/21060/Assignment01-CYS21060_Presentation.pdf) |
 | 61      | Logic - **ASP.NET**  | Scripting - **PowerShell**     | [![](https://img.shields.io/badge/-Report-blue)](Submissions/21061/Assignment01-CYS21061_Report.pdf) <br/> [![](https://img.shields.io/badge/-Presentation-brown)](Submissions/21061/Assignment01-CYS21061_Presentation.pdf) |
