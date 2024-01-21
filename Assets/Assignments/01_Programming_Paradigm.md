@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/Batch-21CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-PPL-blue) <br/>
 ![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange)
 
-## Assignment - 01: Exploring Programming Paradigms   ![](https://img.shields.io/badge/-Live-green) 
+## Assignment - 01: Exploring Programming Paradigms   ![](https://img.shields.io/badge/-Completed-darkgreen) 
 
 - Date of Start: ![](https://img.shields.io/badge/-9th_Jan_10:00_AM-green)
 - Date of Submission: ![](https://img.shields.io/badge/-21st_Jan_6:00_PM-darkred) 
@@ -139,6 +139,6 @@ The objective of this assignment is to deepen your understanding of programming 
 | 85      | Reactive - **ReactJS**  | Logic - **Datalog**         | [![](https://img.shields.io/badge/-Report-blue)](Submissions/21085/Assignment01-CYS21085_Report.pdf) <br/> [![](https://img.shields.io/badge/-Presentation-brown)](Submissions/21085/Assignment01-CYS21085_Presentation.pdf) |
 | 86      | Object-Oriented - **Ruby**  | Aspect-Oriented - **JBoss AOP** | [![](https://img.shields.io/badge/-Report-blue)](Submissions/21086/Assignment01-CYS21086_Report.pdf) <br/> [![](https://img.shields.io/badge/-Presentation-brown)](Submissions/21086/Assignment01-CYS21086_Presentation.pdf) |
 | 87     | Imperative - **MATLAB**  | Dataflow - **LabVIEW**      | [![](https://img.shields.io/badge/-Report-blue)](Submissions/21087/Assignment01-CYS21087_Report.pdf) <br/> [![](https://img.shields.io/badge/-Presentation-brown)](Submissions/21087/Assignment01-CYS21087_Presentation.pdf) |
-| 89    | Aspect-Oriented - **JBoss AOP**  | Imperative - **Rust** | [![](https://img.shields.io/badge/-Report-blue)](Submissions/21088/Assignment01-CYS21089_Report.pdf) <br/> [![](https://img.shields.io/badge/-Presentation-brown)](Submissions/21088/Assignment01-CYS21089_Presentation.pdf) |
+| 89    | Aspect-Oriented - **JBoss AOP**  | Imperative - **Rust** | [![](https://img.shields.io/badge/-Report-blue)](Submissions/21089/Assignment01-CYS21089_Report.pdf) <br/> [![](https://img.shields.io/badge/-Presentation-brown)](Submissions/21089/Assignment01-CYS21089_Presentation.pdf) |
 | 90      | Logic - **Oz**  | Reactive - **Vue.js**               | [![](https://img.shields.io/badge/-Report-blue)](Submissions/21090/Assignment01-CYS21090_Report.pdf) <br/> [![](https://img.shields.io/badge/-Presentation-brown)](Submissions/21090/Assignment01-CYS21090_Presentation.pdf) |
  
