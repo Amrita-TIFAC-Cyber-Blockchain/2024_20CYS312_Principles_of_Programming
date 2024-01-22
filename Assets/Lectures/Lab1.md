@@ -13,7 +13,7 @@ Using GHCup, below are the tools that get installed:
 - Stack: a cross-platform program for developing Haskell projects
 - haskell-language-server (optional): A language server for developers to integrate with their editor/IDE
 
-- **Linux, WSL or MacOS (~/.ghcup/bin) **
+- **Linux, WSL or MacOS (~/.ghcup/bin)**
 
 ```
 curl --proto '=https' --tlsv1.2 -sSf https://get-ghcup.haskell.org | sh
