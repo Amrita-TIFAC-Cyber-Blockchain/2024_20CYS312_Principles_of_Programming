@@ -3,10 +3,11 @@
 ![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange)
 
 ## Practice Exercises 1 ![](https://img.shields.io/badge/-Live-green)
-![](https://img.shields.io/badge/-24th_Jan-orange) ![](https://img.shields.io/badge/-27th_Jan-orange)
+- **Date of Start:** ![](https://img.shields.io/badge/-24th_Jan-green)
+- **Date of Submission:** ![](https://img.shields.io/badge/-27th_Jan-red)
 
 ### Submission Instruction
-- Submit the .zip file containing the Haskell Code (.hs) with proper comments along with the screenshot of the output (.jpg/.png) in [AUMS](https://aumscb.amrita.edu/portal/directtool/5b707dc3-1d16-4617-a460-cb455024799a/).
+- Submit the **.zip** file containing the **Haskell Code (.hs)** with proper comments along with the **Screenshot of the output (.jpg/.png)** in [AUMS](https://aumscb.amrita.edu/portal/directtool/5b707dc3-1d16-4617-a460-cb455024799a/).
 - **File Name Convention:**
   - PE1_Haskell_HTML_JSON_Gen.zip
 
@@ -83,4 +84,34 @@ Write a Haskell code to generate the below **JSON** file with custom input as me
     ]
   }
 }
+```
+#### Reference Code
+
+```
+-- | The main function that prints the example HTML to the console.
+main = putStrLn exampleHtml
+
+-- | Constructs the example HTML using the 'makeHtml' function.
+exampleHtml = makeHtml "Hello 21CYS" "Welcome to 20CYS312 - Principles of Programming Language!"
+
+-- | Combines the HTML components to create a full HTML document.
+makeHtml title content = html_ (head_ (title_ title) <> body_ (heading_ (center_ content)))
+
+-- | Wraps content in HTML tags.
+html_ content = "<html>" <> content <> "</html>"
+
+-- | Wraps content in body tags.
+body_ content = "<body>" <> content <> "</body>"
+
+-- | Wraps content in heading tags.
+heading_ content = "<h1>" <> content <> "</h1>"
+
+-- | Wraps content in center tags.
+center_ content = "<center>" <> content <> "</center>"
+
+-- | Wraps content in head tags.
+head_ content = "<head>" <> content <> "</head>"
+
+-- | Wraps content in title tags.
+title_ content = "<title>" <> content <> "</title>"
 ```
