@@ -115,7 +115,7 @@ head_ content = "<head>" <> content <> "</head>"
 -- | Wraps content in title tags.
 title_ content = "<title>" <> content <> "</title>"
 ```
-### Completion Status
+### Completion Status ![](https://img.shields.io/badge/-Plagiarism_Check_Pending-brown)
 
 | Roll Number | Status |
 |:---------:|:--------:|
