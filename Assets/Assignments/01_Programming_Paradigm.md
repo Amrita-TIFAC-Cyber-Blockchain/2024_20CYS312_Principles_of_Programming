@@ -50,7 +50,7 @@ The objective of this assignment is to deepen your understanding of programming 
 - Relevance and insightfulness of case studies.
 - Critical reflection in the report.
 
-### Allotment
+### Allotment and Completion Status with Link
 
 | Roll Number | Paradigm - 1  | Paradigm -2           | Report |
 |:---------:|-----------------|-------------------------|:---------:|
