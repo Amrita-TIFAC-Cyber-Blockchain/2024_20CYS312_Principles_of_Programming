@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/Batch-21CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-PPL-blue) <br/>
 ![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange)
 
-## Practice Exercises 1 ![](https://img.shields.io/badge/-Live-green)
+## Practice Exercises 1 ![](https://img.shields.io/badge/-Completed-darkgreen)
 - **Date of Start:** ![](https://img.shields.io/badge/-24th_Jan-green)
 - **Date of Submission:** ![](https://img.shields.io/badge/-27th_Jan-red)
 
@@ -115,3 +115,94 @@ head_ content = "<head>" <> content <> "</head>"
 -- | Wraps content in title tags.
 title_ content = "<title>" <> content <> "</title>"
 ```
+### Completion Status
+
+| Roll Number | Status |
+|:---------:|:--------:|
+| 1       | ![](https://img.shields.io/badge/-Submitted-green) |
+| 2       | ![](https://img.shields.io/badge/-Submitted-green) | 
+| 3       | ![](https://img.shields.io/badge/-Submitted-green)|
+| 4       | ![](https://img.shields.io/badge/-Submitted-green) |
+| 5       | ![](https://img.shields.io/badge/-Submitted-green) |
+| 6       | ![](https://img.shields.io/badge/-Not_Submitted-red) |
+| 7       | ![](https://img.shields.io/badge/-Submitted-green) |
+| 8       | ![](https://img.shields.io/badge/-Submitted-green) |
+| 9       | ![](https://img.shields.io/badge/-Submitted-green) |
+| 10      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 11      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 12      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 13      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 14      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 15      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 16      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 17      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 18      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 19      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 20      | ![](https://img.shields.io/badge/-Not_Submitted-red) |
+| 21      | ![](https://img.shields.io/badge/-Not_Submitted-red) |
+| 22      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 23      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 24      | ![](https://img.shields.io/badge/-Not_Submitted-red) |
+| 25      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 26      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 27      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 28      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 30      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 31      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 32      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 33      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 34      | ![](https://img.shields.io/badge/-Not_Submitted-red) |
+| 35      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 36      | ![](https://img.shields.io/badge/-Not_Submitted-red) |
+| 37      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 38      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 39      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 40      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 41      | ![](https://img.shields.io/badge/-Not_Submitted-red) |
+| 42      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 43      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 44      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 45      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 46      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 47      | ![](https://img.shields.io/badge/-Not_Submitted-red) |
+| 48      | ![](https://img.shields.io/badge/-Not_Submitted-red) |
+| 49      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 50      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 51      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 52      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 53      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 54      | ![](https://img.shields.io/badge/-Not_Submitted-red) |
+| 55      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 56      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 57      | ![](https://img.shields.io/badge/-Not_Submitted-red) | 
+| 58      | ![](https://img.shields.io/badge/-Not_Submitted-red) | 
+| 59      | ![](https://img.shields.io/badge/-Not_Submitted-red) |
+| 60      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 61      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 62      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 63      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 66      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 67      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 68      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 69      | ![](https://img.shields.io/badge/-Not_Submitted-red) |
+| 70      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 71      | ![](https://img.shields.io/badge/-Not_Submitted-red) |
+| 72      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 73      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 74      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 75      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 76      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 77      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 78      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 79      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 80      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 81      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 82      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 83      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 84      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 85      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 86      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 87      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 89      | ![](https://img.shields.io/badge/-Submitted-green) |
+| 90      | ![](https://img.shields.io/badge/-Submitted-green) |
+ 
