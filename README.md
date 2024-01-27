@@ -23,16 +23,16 @@
 | **#** | **Assignment - 1** | CO1 | ![](https://img.shields.io/badge/Start-09th_Jan-green) ![](https://img.shields.io/badge/Submission-21st_Jan-darkred) |
 | 2 | Introduction to Functional Programming | CO1 | ![](https://img.shields.io/badge/-23rd_Jan-gold) |
 | 2 | Programming with Haskell | CO1 | ![](https://img.shields.io/badge/-23rd_Jan-orange) |
-| 3 | Haskell: GHCi interpreter  | CO1 |  ![](https://img.shields.io/badge/-23rd_Jan-orange)  ![](https://img.shields.io/badge/-24th_Jan-gold) |
+| 3 | Haskell: GHCi interpreter  | CO1 |  ![](https://img.shields.io/badge/-23rd_Jan-gold)  ![](https://img.shields.io/badge/-24th_Jan-orange) |
 | **#** | **Practice Exercises - 1** | CO1 | Evaluate on next Lab |
-| 4 | Haskell: functions and types  |  CO1 |  ![](https://img.shields.io/badge/-30th_Jan-brown) ![](https://img.shields.io/badge/-5th_Feb-orange) |
-| **#** | **Quiz - 1 and Lab Evaluation - 1**| CO1 | ![](https://img.shields.io/badge/-6th_Feb-purple) |
+| 4 | Haskell: functions and types  |  CO1 |  ![](https://img.shields.io/badge/-5th_Feb-orange)  ![](https://img.shields.io/badge/-6th_Feb-gold) ![](https://img.shields.io/badge/-7th_Feb-orange) |
+| **#** | **Quiz - 1 and Lab Evaluation - 1**| CO1 | ![](https://img.shields.io/badge/-13th_Feb-purple) |
 | 5 | Haskell: functional composition  |  CO1 | ![](https://img.shields.io/badge/-7th_Feb-orange) ![](https://img.shields.io/badge/-12th_Feb-orange)  ![](https://img.shields.io/badge/-13th_Feb-gold) |
 | 3 | Haskell: GHCi interpreter  | CO1 |  ![](https://img.shields.io/badge/-23rd_Jan-orange)  ![](https://img.shields.io/badge/-24th_Jan-gold) |
 | **#** | **Assignment - 2** | CO1 | ![](https://img.shields.io/badge/Start-15th_Feb-green) ![](https://img.shields.io/badge/Submission-5th_Mar-red) |
 | 6 | Haskell: numbers, lists, tuples | CO1 | ![](https://img.shields.io/badge/-14th_Feb-orange) ![](https://img.shields.io/badge/-19th_Feb-orange) ![](https://img.shields.io/badge/-20th_Feb-gold)|
 | 7 | Haskell: type classes, pattern matching | CO1 | ![](https://img.shields.io/badge/-25th_Feb-orange) ![](https://img.shields.io/badge/-26th_Feb-orange) |
-| **#** | **Quiz - 2 and Lab Evaluation - 2** | CO1 | ![](https://img.shields.io/badge/-27th_Feb-purple) | 
+| **#** | **Quiz - 2 and Lab Evaluation - 2** | CO1 | ![](https://img.shields.io/badge/-5th_Mar-purple) | 
 | **#** | **Tutorial Exercises - 2** | CO1 | Evaluate on next Lab |
 | 8 | Haskell: higher order functions: currying, lambdas, maps and filters folds, IO monad. | CO3 | ![](https://img.shields.io/badge/-4th_Mar-orange) |
 | **#** | **Practice Lab for Mid-Term** | CO1 | ![](https://img.shields.io/badge/-5th_Mar-brown) |
@@ -57,14 +57,14 @@
 | **Assignment - 1: Opens** | 09 - Jan - 2024 |
 | **Assignment - 1: Submission** | 21 - Jan - 2024 |
 | **Haskell Practice Exercise - 1: Opens** | 24 - Jan - 2024 |
-| Haskell Practice Exercise - 1: Submission | 27 - Jan - 2024 |
-| Haskell Quiz - 1 | 6 - Feb - 2024 |
-| Haskell Lab Evaluation - 1 | 6 - Feb - 2024 |
-| Haskell Practice Exercise - 2 | 14 - Feb - 2024 |
-| Assignment - 2: Opens | 15 - Feb - 2024 |
-| Haskell Quiz - 2 | 27 - Feb - 2024 |
-| Haskell Lab Evaluation - 2 | 27 - Feb - 2024 |
-| Assignment - 2: Submission | 14 - Mar - 2024 |
+| **Haskell Practice Exercise - 1: Submission** | 27 - Jan - 2024 |
+| Haskell Quiz - 1 | 13 - Feb - 2024 |
+| Haskell Lab Evaluation - 1 | 13 - Feb - 2024 |
+| Assignment - 2: Opens | 16 - Feb - 2024 |
+| Haskell Practice Exercise - 2 | 27 - Feb - 2024 |
+| Haskell Quiz - 2 | 5 - Mar - 2024 |
+| Haskell Lab Evaluation - 2 | 5 - Mar - 2024 |
+| Assignment - 2: Submission | 13 - Mar - 2024 |
 | Mid-Term Exam | Mar - 2024 |
 | Rust |  TBD |
 
