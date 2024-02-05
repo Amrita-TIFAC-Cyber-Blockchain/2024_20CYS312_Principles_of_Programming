@@ -66,3 +66,25 @@ main = do
     putStrLn $ "Factorial of " ++ show n ++ " is: " ++ show (factorialAcc n)
 ```
 
+### Check if String is Palindrome
+```
+isPalindrome :: String -> Bool
+isPalindrome str = str == reverse str
+
+main :: IO ()
+main = do
+    let palindrome = "level"
+    putStrLn $ "Is \"" ++ palindrome ++ "\" a palindrome? " ++ show (isPalindrome palindrome)
+```
+
+### Reverse a String
+```
+reverseString :: String -> String
+reverseString = reverse
+
+main :: IO ()
+main = do
+    let original = "Hello, Haskell!"
+    putStrLn $ "Original: " ++ original
+    putStrLn $ "Reversed: " ++ reverseString original
+```
