@@ -2,8 +2,8 @@
 ![](https://img.shields.io/badge/Batch-21CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-PPL-blue) <br/>
 ![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange)
 
-## Lecture 5 - Introduction to Functional Programming (Continued)
-![](https://img.shields.io/badge/-09th_Feb-orange)
+## Lab 3 - List Comprehension and Recursion
+![](https://img.shields.io/badge/-13th_Feb-orange)
 
 ### Types of Definitions
 - Comprehension
