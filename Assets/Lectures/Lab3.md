@@ -47,7 +47,7 @@ let factorial n = product [1..n]
 factorial 4
 ```
 
-#### Example
+#### Example 1 - Sum of Odd Squares
 ```
 -- Function to calculate the squares of elements in a list
 squares :: [Int] -> [Int]
@@ -86,6 +86,24 @@ main = do
     print $ prop_sumSqOdd inputList
 ```
 
+#### Example 2  - pythagoreanTriplets
+```
+pythagoreanTriples :: Int -> [(Int, Int, Int)]
+pythagoreanTriples n = [(a, b, c) | c <- [1..n],
+                                    b <- [1..c],
+                                    a <- [1..b],
+                                    a^2 + b^2 == c^2]
+
+main :: IO ()
+main = do
+    putStrLn "Enter a limit for Pythagorean triples:"
+    limit <- getLine
+    let n = read limit :: Int
+    let triples = pythagoreanTriples n
+    putStrLn "Pythagorean triples:"
+    print triples
+```
+
 #### Recursion
 
 ```
@@ -104,7 +122,7 @@ squares (2:[3]) = (2*2 : squares [3])
         [4,9]         GB = (4: [9])  
 3rd iteration : squares [3]
 squares (3:[]) = (3*3 : squares [])
-	    [9]			  GB = (9 : [])
+        [9]	      GB = (9 : [])
 ```
 
 
