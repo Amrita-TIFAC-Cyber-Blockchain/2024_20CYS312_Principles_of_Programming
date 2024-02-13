@@ -85,3 +85,27 @@ main = do
     putStrLn "Property test result:"
     print $ prop_sumSqOdd inputList
 ```
+
+#### Recursion
+
+```
+squares :: [Int] -> [Int]
+squares [] = []
+squares (x:xl) = x*x : squares xl
+```
+###### How it works
+```
+[1, 2, 3]
+1st iteration : sqaures [1,2,3]
+squares (1:[2,3]) = (1*1 : squares [2,3])
+        [1,4,9]       GB = (1:[4,9])
+2nd iteration : squares  [2,3]
+squares (2:[3]) = (2*2 : squares [3])
+        [4,9]         GB = (4: [9])  
+3rd iteration : squares [3]
+squares (3:[]) = (3*3 : squares [])
+	    [9]			  GB = (9 : [])
+```
+
+
+
