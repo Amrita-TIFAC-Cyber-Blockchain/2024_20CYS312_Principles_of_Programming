@@ -7,7 +7,7 @@
 - **Date of Submission:** ![](https://img.shields.io/badge/-27th_Feb-red)
 
 ### Submission Instruction
-- Submit the **.zip** file containing the **Haskell Code (.hs)** with proper comments along with the **Screenshot of the output (.jpg/.png)** in [AUMS](https://aumscb.amrita.edu/portal/directtool/5b707dc3-1d16-4617-a460-cb455024799a/).
+- Submit the **.zip** file containing the **Haskell Code (.hs)** with proper comments along with the **Screenshot of the output (.jpg/.png)** in [AUMS]().
 - **File Name Convention:**
   - PE2_Haskell_Prelude.zip
 
