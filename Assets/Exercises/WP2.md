@@ -84,3 +84,16 @@ True
 ghci> elem 9 [18,44,24,05,10,23]
 False
 ```
+### Questions
+- Write a Haskell function `intersectionLength` that takes two lists of integers and returns the length of the intersection of the two lists. You should implement this using recursion, list comprehension.
+```
+intersectionLength [1, 2, 3, 4, 5] [4, 5, 6, 7, 8] -- should return 2
+intersectionLength [1, 2, 3, 4, 5] [6, 7, 8, 9, 10] -- should return 0
+intersectionLength [1, 2, 3, 4, 5] [5, 4, 3, 2, 1] -- should return 5
+```
+- Write a Haskell function `rotateList` that takes a list of integers and an integer n as input, and rotates the elements of the list to the left by n positions. If n is negative, rotate the elements to the right instead. Implement this using recursion, list comprehension.
+```
+rotateList [1, 2, 3, 4, 5] 2 -- should return [3, 4, 5, 1, 2]
+rotateList [1, 2, 3, 4, 5] (-1) -- should return [5, 1, 2, 3, 4]
+rotateList [1, 2, 3, 4, 5] 7 -- should return [4, 5, 1, 2, 3]
+```
