@@ -59,7 +59,7 @@ helloStrings = filter containsSubstring wordsList
 -- Result: ["hello world", "hello friend"]
 ```
 
-#### Foldr
+#### foldr and foldl
 The `foldr` function (right fold) takes a binary function, an initial accumulator value, and a list. It recursively combines the elements of the list from right to left using the binary function and the accumulator.
 
 ##### Simple Example
@@ -82,4 +82,22 @@ factorial n = foldr (*) 1 [1..n]
 -- Calculating the factorial of 5
 factorialOfFive = factorial 5
 -- Result: 120 (1 * 2 * 3 * 4 * 5)
+```
+
+##### foldl and foldr
+```
+-- Define a function to subtract two numbers
+subtractNum :: Int -> Int -> Int
+subtractNum x y = x - y
+
+-- List of numbers
+numbersList = [1, 2, 3, 4]
+
+-- Using foldl to perform left fold with subtraction
+foldlResult = foldl subtractNum 0 numbersList
+-- Result: -10 (0 - 1 - 2 - 3 - 4)
+
+-- Using foldr to perform right fold with subtraction
+foldrResult = foldr subtractNum 0 numbersList
+-- Result: 2 (1 - (2 - (3 - (4 - 0))))
 ```
