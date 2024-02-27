@@ -70,9 +70,11 @@ evenNumbers = filter isEven [1, 2, 3, 4, 5]
 
 ##### Another Example
 ```
+import Data.List (isInfixOf)
+
 -- Function to filter strings containing a specific substring
 containsSubstring :: String -> Bool
-containsSubstring str = "hello" `elem` str
+containsSubstring str = "hello" `isInfixOf` str
 
 -- Filtering strings containing "hello" from a list of strings
 wordsList = ["hello world", "goodbye", "hi there", "hello friend"]
