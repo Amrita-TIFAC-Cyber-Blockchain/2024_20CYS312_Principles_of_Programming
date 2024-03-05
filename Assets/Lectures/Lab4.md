@@ -7,7 +7,7 @@
 
 A higher-order function is a function that takes other functions as arguments or returns a function as result.
 
-### Map, Filter and Foldr
+### Map and Filter
 
 #### Map
  The `map` function applies a given function to each element of a list, returning a new list with the transformed elements.
