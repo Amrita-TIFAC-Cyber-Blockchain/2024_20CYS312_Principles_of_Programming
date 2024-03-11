@@ -29,25 +29,24 @@
 | **#** | **Quiz - 1 and Lab Evaluation - 1**| CO1 | ![](https://img.shields.io/badge/-13th_Feb-purple) |
 | 5 | Haskell: functional composition  |  CO1 | ![](https://img.shields.io/badge/-7th_Feb-orange) ![](https://img.shields.io/badge/-12th_Feb-orange)  ![](https://img.shields.io/badge/-13th_Feb-gold) |
 | 3 | Haskell: GHCi interpreter  | CO1 |  ![](https://img.shields.io/badge/-23rd_Jan-orange)  ![](https://img.shields.io/badge/-24th_Jan-gold) |
-| **#** | **Assignment - 2** | CO1 | ![](https://img.shields.io/badge/Start-15th_Feb-green) ![](https://img.shields.io/badge/Submission-5th_Mar-red) |
 | 6 | Haskell: numbers, lists, tuples | CO1 | ![](https://img.shields.io/badge/-14th_Feb-orange) ![](https://img.shields.io/badge/-19th_Feb-orange) ![](https://img.shields.io/badge/-20th_Feb-gold)|
 | 7 | Haskell: type classes, pattern matching | CO1 | ![](https://img.shields.io/badge/-25th_Feb-orange) ![](https://img.shields.io/badge/-26th_Feb-orange) |
-| **#** | **Quiz - 2 and Lab Evaluation - 2** | CO1 | ![](https://img.shields.io/badge/-5th_Mar-purple) | 
 | **#** | **Tutorial Exercises - 2** | CO1 | Evaluate on next Lab |
 | 8 | Haskell: higher order functions: currying, lambdas, maps and filters folds, IO monad. | CO3 | ![](https://img.shields.io/badge/-4th_Mar-orange) |
-| **#** | **Practice Lab for Mid-Term** | CO1 | ![](https://img.shields.io/badge/-5th_Mar-brown) |
-| **#** | **Mid-Term Examination** | CO1, CO3 | TBD | 
-| 9 | Introduction to Rust  | CO2 | |
+| **#** | **Quiz - 2 and Lab Evaluation - 2** | CO1 | ![](https://img.shields.io/badge/-13th_Mar-purple) | 
+| **#** | **Assignment - 2** | CO1 | ![](https://img.shields.io/badge/Start-15th_Feb-green) ![](https://img.shields.io/badge/Submission-5th_Mar-red) |
+| **#** | **Mid-Term Examination** | CO1, CO3 | ![](https://img.shields.io/badge/-19th_Mar-black) | 
+| 9 | Introduction to Rust  | CO2 | ![](https://img.shields.io/badge/-9th_Apr-orange) |
 | 10 | Rust: Data types, Operators, Decision Making, Loops | CO2 | |
 | 11 | Rust: Functions, Tuple and Array | CO2 | |
 | 12 | Rust: Ownership, Borrowing, Slices | CO2 | |
 | 13 | Rust: Structure, Modules, Collections | CO2 | |
-| **#**  | **Quiz - 3** |
+| **#**  | **Quiz - 3 and Lab Evaluation - 3** |
 | 14 | Rust:  Error Handling, File | CO2 | |
 | 15 | Rust: Input and Output, Package Manager | CO2 | |
 | 16 | Rust: Iterator and Closure | CO2 | |
 | 17 | Rust: References, Concurrency | CO2 | |
-| **#**  | **Quiz - 4** |
+| **#**  | **Quiz - 4  and Lab Evaluation - 4** |
 | **#**  | **End-Semester Examination** |
 
 ### Dates and Deadlines
@@ -65,7 +64,7 @@
 | Haskell Quiz - 2 | 5 - Mar - 2024 |
 | Haskell Lab Evaluation - 2 | 5 - Mar - 2024 |
 | Assignment - 2: Submission | 13 - Mar - 2024 |
-| Mid-Term Exam | Mar - 2024 |
+| Mid-Term Exam | 19 - Mar - 2024 |
 | Rust |  TBD |
 
 ## Haskell
