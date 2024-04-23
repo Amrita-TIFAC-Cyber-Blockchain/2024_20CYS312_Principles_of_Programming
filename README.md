@@ -1,4 +1,4 @@
-# 20CYS312 - Principles of Programming Languages
+# 20CYS312 - Principles of Programming Languages ![](https://img.shields.io/badge/-Live-darkgreen)
 ![](https://img.shields.io/badge/Batch-21CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-PPL-blue) <br/>
 ![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) <br/> ![](https://img.shields.io/badge/Students-85-gold)
 
@@ -64,8 +64,9 @@
 | Haskell Quiz - 2 | 5 - Mar - 2024 |
 | Haskell Lab Evaluation - 2 | 5 - Mar - 2024 |
 | Assignment - 2: Submission | 13 - Mar - 2024 |
-| Mid-Term Exam | 19 - Mar - 2024 |
+| Mid-Term Exam | 24 - Apr - 2024 |
 | Rust |  TBD |
+| End Semester Exam | 29 - May - 2024 |
 
 ## Haskell
 - [Installation](https://www.haskell.org/ghcup/)
