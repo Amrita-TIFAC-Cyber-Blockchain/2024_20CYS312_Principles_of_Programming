@@ -4,15 +4,15 @@
 
 ## Assignment - 02: Implementation of Language Parser using Haskell
 
-- Date of Start: ![](https://img.shields.io/badge/-TBD-gray)
-- Date of Submission: ![](https://img.shields.io/badge/-TBD-gray) 
+- Date of Start: ![](https://img.shields.io/badge/-26th_Apr-gray)
+- Date of Submission: ![](https://img.shields.io/badge/-7th_May-gray) 
   
 ### Objective:
 Design and implement a parser in Haskell for a programming language of your choice: C, C++, Python, or Java. The parser should be able to analyze and process the syntax of the chosen language, identifying and extracting key elements such as variables, functions, control structures, and data types. Your parser should be capable of handling a representative subset of the language's syntax.
 
 #### Assignment Components:
 
-- **Language Choice:** Select one of the following programming languages - C, C++, Python, or Java.
+- **Language Choice:** Select one of the following programming languages - Python, or Java.
 
 - **Parser Implementation:** Develop a parser in Haskell that can analyze the syntax of the chosen language. The parser should be able to handle a significant subset of the language's features.
 
