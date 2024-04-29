@@ -35,7 +35,8 @@ Design and implement a parser in Haskell for a programming language of your choi
 - Submit the report in a separate document (PDF or Markdown).
 - _Note:_ While you are encouraged to explore additional features and improvements beyond the basic requirements, make sure to prioritize the core functionality of parsing the chosen language's syntax.
 
-#### Refernce Code
+#### Reference Code
+This reference code is only to give you an idea on how to start. 
 ```
 import Text.Parsec
 import Text.Parsec.String (Parser)
@@ -93,3 +94,6 @@ getLinesUntilEmpty = do
             return (line : rest)  -- Returning the current line and the rest
 
 ```
+<p align="center">
+<img src="../images/A2-RO.png" width="700"/>
+</p>
