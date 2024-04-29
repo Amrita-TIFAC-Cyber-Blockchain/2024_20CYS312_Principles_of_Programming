@@ -3,7 +3,7 @@ findMax [x] = x
 findMax (x:xs)
     | x > findMax xs = x
     | otherwise   = findMax xs
-		
+	
 main :: IO ()
 main = do
     let list1 = [1, -5, -3, 9, -2]
