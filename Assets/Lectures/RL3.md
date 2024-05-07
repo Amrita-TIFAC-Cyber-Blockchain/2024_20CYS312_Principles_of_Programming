@@ -146,6 +146,27 @@ fn main() {
     }
 }
 ```
+
+### Ownership 
+```
+fn main() {
+    let s = String::from("hello");
+    let s1 = String::from("hello");
+    let s2 = s1; // s1 is moved to s2
+    
+    //println!("{}", s1); // This would result in an error since s1 is no longer valid
+    println!("{}", s2); // This will print "hello"
+
+    takes_ownership(s);
+    // s is no longer valid here
+	//println!("{}", s);
+}
+
+fn takes_ownership(some_string: String) {
+    println!("{}", some_string);
+    // some_string goes out of scope and is deallocated
+}
+```
 ## Practice
 
 Explain what happens here?
