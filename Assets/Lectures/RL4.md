@@ -7,6 +7,11 @@
 
 ### Structures
 ```
+struct Employee {
+    id: u32,
+    name: String,
+    department: String,
+}
 fn main() {
     let employee1 = Employee {
         id: 44,
@@ -26,6 +31,11 @@ fn main() {
 ```
 
 ```
+struct Employee {
+    id: u32,
+    name: String,
+    department: String,
+}
 fn main() {
     let mut employee = Employee {
         id: 44,
@@ -40,6 +50,11 @@ fn main() {
 ```
 
 ```
+struct Employee {
+    id: u32,
+    name: String,
+    department: String,
+}
 fn create_employee(id: u32, name: String, department: String) -> Employee {
     Employee {
         id,
@@ -54,3 +69,32 @@ fn main() {
     println!("Employee ID: {}, Name: {}, Department: {}", employee.id, employee.name, employee.department);
 }
 ```
+
+### Modules
+
+```
+// src/main.rs
+
+mod math; // Import the math module
+
+fn main() {
+    let result_add = math::add(5, 3);
+    let result_subtract = math::subtract(10, 7);
+
+    println!("Addition Result: {}", result_add);
+    println!("Subtraction Result: {}", result_subtract);
+}
+```
+
+```
+// src/math.rs
+
+pub fn add(a: i32, b: i32) -> i32 {
+    a + b
+}
+
+pub fn subtract(a: i32, b: i32) -> i32 {
+    a - b
+}
+```
+
