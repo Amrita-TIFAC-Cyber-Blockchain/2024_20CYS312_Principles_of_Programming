@@ -167,6 +167,22 @@ fn takes_ownership(some_string: String) {
     // some_string goes out of scope and is deallocated
 }
 ```
+
+```
+ fn main() {
+    let s = String::from("hello");
+    
+    // Pass a reference to s
+    takes_reference(&s);
+    // s is still valid here
+	println!("{}", s);
+}
+
+fn takes_reference(some_string: &String) {
+    println!("{}", some_string);
+    // some_string reference goes out of scope, but the value it refers to remains valid
+}
+```
 ## Practice
 
 Explain what happens here?
