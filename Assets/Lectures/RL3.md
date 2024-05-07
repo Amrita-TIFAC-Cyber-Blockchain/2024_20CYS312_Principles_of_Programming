@@ -92,3 +92,15 @@ fn main() {
     println!("Result of multiplying 5 and 7: {}", result2);
 }
 ```
+## Practice
+
+Explain what happens here?
+```
+fn main() {
+    let x = 5;
+    let x = x * 2;
+    let x = x + 10;
+
+    println!("The value of x is: {}", x);
+}
+```
