@@ -61,3 +61,34 @@ fn main() {
     println!("Value of z: {}", z);
 }
 ```
+
+#### Function calls
+```
+// Example function that takes two integers and returns their sum
+fn add(a: i32, b: i32) -> i32 {
+    a + b
+}
+
+// Example function that takes a string and prints it
+fn print_message(message: &str) {
+    println!("Message: {}", message);
+}
+
+// Example function that takes two integers and returns their product
+fn multiply(a: i32, b: i32) -> i32 {
+    a * b
+}
+
+fn main() {
+    // Example 1: Call the add function
+    let result1 = add(20, 65);
+    println!("Result of adding 20 and 65: {}", result1);
+
+    // Example 2: Call the print_message function
+    print_message("Hello, world!");
+
+    // Example 3: Call the multiply function
+    let result2 = multiply(5, 7);
+    println!("Result of multiplying 5 and 7: {}", result2);
+}
+```
