@@ -92,6 +92,43 @@ fn main() {
     println!("Result of multiplying 5 and 7: {}", result2);
 }
 ```
+
+### Arrays 
+```
+fn main() {
+    // Define an array of student names
+    let names = [
+        "Abinesh G",
+        "Achyuth",
+        "Aishwarya G",
+        "Aishwarya GS",
+        "Alagu Soundarya G",
+    ];
+
+    // Iterate over the array and print each name
+    for name in &names {
+        println!("{}", name);
+    }
+}
+```
+
+```
+fn main() {
+    // Define an array of tuples containing student names and roll numbers
+    let students = [
+        ("Abinesh G", 1),
+        ("Achyuth", 2),
+        ("Aishwarya G", 3),
+        ("Aishwarya GS", 4),
+        ("Alagu Soundarya G", 5),
+    ];
+
+    // Iterate over the array and print each student's details
+    for (name, roll_number) in &students {
+        println!("Roll Number: {}, Name: {}", roll_number, name);
+    }
+}
+```
 ## Practice
 
 Explain what happens here?
