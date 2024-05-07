@@ -114,6 +114,23 @@ fn main() {
 
 ```
 fn main() {
+    // Define an array of student names
+    let names = [
+        "Abinesh G",
+        "Achyuth",
+        "Aishwarya G",
+        "Aishwarya GS",
+        "Alagu Soundarya G",
+    ];
+
+    // Iterate through numbers and use them as indices to access names
+    for i in 0..names.len() {
+        println!("Student {}: {}", i + 1, names[i]);
+    }
+}
+```
+```
+fn main() {
     // Define an array of tuples containing student names and roll numbers
     let students = [
         ("Abinesh G", 1),
