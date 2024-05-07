@@ -69,6 +69,41 @@ fn main() {
     println!("Employee ID: {}, Name: {}, Department: {}", employee.id, employee.name, employee.department);
 }
 ```
+```
+struct Point {
+    x: i32,
+    y: i32,
+}
+
+fn print_point(point: Point) {
+    println!("Point coordinates: ({}, {})", point.x, point.y);
+}
+
+
+fn print_point1(point: &Point) {
+    println!("Point coordinates: ({}, {})", point.x, point.y);
+}
+
+fn main() {
+    // Create a Point instance
+    let p = Point { x: 44, y: 18 };
+
+    // Pass the Point instance by reference to the print_point function
+    print_point(p);
+
+    // We cannot use the Point instance after transferring the ownership
+    //println!("Point coordinates after transfer: ({}, {})", p.x, p.y);
+	
+	// Create a Point instance
+    let p = Point { x: 44, y: 18 };
+
+    // Pass the Point instance by reference to the print_point function
+    print_point1(&p);
+
+    // We can still use the Point instance after borrowing it
+    println!("Point coordinates after borrowing: ({}, {})", p.x, p.y);
+}
+```
 
 ### Modules
 
