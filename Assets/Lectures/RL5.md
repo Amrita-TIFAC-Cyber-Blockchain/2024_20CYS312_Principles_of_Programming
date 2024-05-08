@@ -57,6 +57,41 @@ fn divide(x: f64, y: f64) -> Result<f64, &'static str> {
 }
 ```
 
+### Match and Error
+```
+use std::io;
+
+fn main() {
+    println!("Select an option:");
+    println!("1. Option 1");
+    println!("2. Option 2");
+    println!("3. Option 3");
+
+    let mut choice = String::new();
+
+    io::stdin()
+        .read_line(&mut choice)
+        .expect("Failed to read line");
+
+    // Parse the input to an integer
+    let choice: u32 = match choice.trim().parse() {
+        Ok(num) => num,
+        Err(_) => {
+            println!("Invalid input. Please enter a number.");
+            return;
+        }
+    };
+
+    // Match the choice and print corresponding messages
+    match choice {
+        1 => println!("You chose Option 1"),
+        2 => println!("You chose Option 2"),
+        3 => println!("You chose Option 3"),
+        _ => println!("Invalid choice"),
+    }
+}
+```
+
 ## Practice
 You are tasked with implementing a simple inventory management system for a store. Define a structure named Item to represent an item in the inventory. Each item should have the following attributes:
 
