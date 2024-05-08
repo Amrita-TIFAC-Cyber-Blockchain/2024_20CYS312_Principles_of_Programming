@@ -5,6 +5,7 @@
 ## Lecture 5 - Misc
 ![](https://img.shields.io/badge/-8th_May-orange)
 
+### Match
 ```
 fn main() {
     let number = 13;
@@ -36,3 +37,24 @@ fn main() {
     println!("{} -> {}", boolean, binary);
 }
 ```
+### Error - Result Enum
+```
+fn main() {
+    // Example of using Result to handle division by zero error
+    match divide(10.0, 0.0) {
+        Ok(result) => println!("Result of division: {}", result),
+        Err(err) => println!("Error: {}", err),
+    }
+}
+
+// Function to divide two numbers
+fn divide(x: f64, y: f64) -> Result<f64, &'static str> {
+    if y == 0.0 {
+        Err("Division by zero")
+    } else {
+        Ok(x / y)
+    }
+}
+```
+
+
