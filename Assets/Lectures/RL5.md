@@ -6,12 +6,13 @@
 ![](https://img.shields.io/badge/-8th_May-orange)
 
 ### Match
+Rust supports pattern matching through ```match```. We can relate match with ```switch-case``` of C language. 
+
 ```
 fn main() {
     let number = 13;
     // TODO ^ Try different values for `number`
 
-     
     match number {
         // Match a single value
         1 => println!("One!"),
@@ -37,11 +38,24 @@ fn main() {
     println!("{} -> {}", boolean, binary);
 }
 ```
+_Source:_ Rust Lang Documentation
+
 ### Error - Result Enum
+
+**Result<T, E>** could have one of two outcomes:
+- Ok(T): An element T was found
+- Err(E): An error was found with element E
+  
+By convention, the expected outcome is **Ok** while the unexpected outcome is **Err**.
 ```
 fn main() {
     // Example of using Result to handle division by zero error
-    match divide(10.0, 0.0) {
+    match divide(10.0, 2.0) {
+        Ok(result) => println!("Result of division: {}", result),
+        Err(err) => println!("Error: {}", err),
+    }
+	
+	match divide(10.0, 0.0) {
         Ok(result) => println!("Result of division: {}", result),
         Err(err) => println!("Error: {}", err),
     }
@@ -58,6 +72,7 @@ fn divide(x: f64, y: f64) -> Result<f64, &'static str> {
 ```
 
 ### Match and Error
+The below example is covering, both Error handling with match in addition to reading the input from the console. 
 ```
 use std::io;
 
@@ -105,4 +120,54 @@ You are required to implement the following functions:
 - **display_item(item: &Item):** A function that takes a reference to an Item and displays its details (id, name, quantity) on the console.
 Use the match expression to handle the Result type and return either the result or an error message appropriately.
 
+```
+// Define the Item structure
+struct Item {
+    id: u32,
+    name: String,
+    quantity: u32,
+}
 
+// Function to create a new Item
+fn create_item(id: u32, name: String, quantity: u32) -> Result<Item, String> {
+    if quantity < 0 {
+        return Err("Quantity cannot be negative".to_string());
+    }
+    Ok(Item { id, name, quantity })
+}
+
+// Function to update quantity of an existing Item
+fn update_quantity(item: &mut Item, quantity: i32) -> Result<(), String> {
+    if quantity < 0 {
+        return Err("Insufficient quantity".to_string());
+    }
+    Ok(item.quantity = quantity as u32)
+}
+
+fn display_item(item: &Item) -> Result<(), String> {
+    println!("Item ID: {}", item.id);
+    println!("Item Name: {}", item.name);
+    println!("Item Quantity: {}", item.quantity);
+    Ok(())
+}
+
+fn main() {
+    // Test cases
+    let mut item1 = create_item(18, String::from("Banana"), 10).unwrap();
+    
+    match display_item(&item1) {
+        Ok(()) => println!("Item details displayed successfully"),
+        Err(err) => println!("Error: {}", err),
+    }
+
+    match update_quantity(&mut item1, 20) {
+        Ok(()) => println!("Quantity updated successfully"),
+        Err(err) => println!("Error: {}", err),
+    }
+
+    match display_item(&item1) {
+        Ok(()) => println!("Item details displayed successfully"),
+        Err(err) => println!("Error: {}", err),
+    }
+}
+```
