@@ -6,6 +6,9 @@
 ![](https://img.shields.io/badge/-7th_May-orange)
 
 ### Structures
+
+The example below shows how to define a structure _Employee_ with three elements. The main function creates two instances of the struct named _employee1_ and _employee2_. The indivual elements can be accessed using the **.(dot)** operator.
+
 ```
 struct Employee {
     id: u32,
@@ -30,6 +33,7 @@ fn main() {
 }
 ```
 
+The example below shows how to create **a mutable instance** of structure where the _employee.name_ element is updated.
 ```
 struct Employee {
     id: u32,
@@ -49,6 +53,7 @@ fn main() {
 }
 ```
 
+The example here showcases how to create an employee using a function and return the Employee instance back to the main function. 
 ```
 struct Employee {
     id: u32,
@@ -69,6 +74,8 @@ fn main() {
     println!("Employee ID: {}, Name: {}, Department: {}", employee.id, employee.name, employee.department);
 }
 ```
+
+Here, we can see how the _ownership transfer_ and _borrowing_ is used with structure.
 ```
 struct Point {
     x: i32,
@@ -78,7 +85,6 @@ struct Point {
 fn print_point(point: Point) {
     println!("Point coordinates: ({}, {})", point.x, point.y);
 }
-
 
 fn print_point1(point: &Point) {
     println!("Point coordinates: ({}, {})", point.x, point.y);
@@ -107,6 +113,8 @@ fn main() {
 
 ### Modules
 
+**A module is a collection of items**: _functions_, _structs_, _traits_, _impl_ blocks, and even other modules.Rust provides a powerful module system to hierarchically split code in logical units called modules.
+
 ```
 // src/main.rs
 
@@ -132,4 +140,5 @@ pub fn subtract(a: i32, b: i32) -> i32 {
     a - b
 }
 ```
+The default visibility is _private_, which can be overridden by using ```pub``` which means _public_. Remember, only public items are allowed to be acccessed outside the module.
 
