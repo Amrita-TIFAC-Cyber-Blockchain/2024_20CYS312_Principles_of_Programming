@@ -57,4 +57,17 @@ fn divide(x: f64, y: f64) -> Result<f64, &'static str> {
 }
 ```
 
+## Practice
+You are tasked with implementing a simple inventory management system for a store. Define a structure named Item to represent an item in the inventory. Each item should have the following attributes:
+
+- **id:** An integer representing the unique identifier of the item.
+- **name:** A string representing the name of the item.
+- **quantity:** An integer representing the quantity of the item in stock.
+
+You are required to implement the following functions:
+- **create_item(id: u32, name: String, quantity: u32) -> Result<Item, String>:** A function that takes the id, name, and quantity of an item as input and returns a Result containing the created Item if successful, or an error message if the quantity is negative.
+- **update_quantity(item: &mut Item, quantity: i32) -> Result<(), String>:** A function that takes a mutable reference to an Item and updates its quantity by the specified amount. If the resulting quantity is negative after the update, return an error message indicating insufficient quantity.
+- **display_item(item: &Item):** A function that takes a reference to an Item and displays its details (id, name, quantity) on the console.
+Use the match expression to handle the Result type and return either the result or an error message appropriately.
+
 
