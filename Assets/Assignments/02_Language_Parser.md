@@ -5,7 +5,7 @@
 ## Assignment - 02: Implementation of Language Parser using Haskell
 
 - Date of Start: ![](https://img.shields.io/badge/-29th_Apr_10:00_PM-green)
-- Date of Submission: ![](https://img.shields.io/badge/-14th_May_6:00_PM-darkred) 
+- Date of Submission: ![](https://img.shields.io/badge/-11th_May_6:00_PM-darkred) 
   
 ### Objective:
 Design and implement a parser in Haskell for a programming language of your choice: _Python_, or _Java_. The parser should be able to analyze and process the syntax of the chosen language, identifying and extracting key elements such as variables, data types, expressions and control structures.  Your parser should be capable of handling a representative subset of the language's syntax.
@@ -30,10 +30,11 @@ Design and implement a parser in Haskell for a programming language of your choi
 
 #### Submission Guidelines:
 
-- Submit your Haskell source code along with any necessary files for running the parser.
+- Submit your Haskell source code along with any necessary files for running the parser. To be submitted electronically via [AUMS](https://aumscb.amrita.edu/portal/site/67606/tool/5b707dc3-1d16-4617-a460-cb455024799a?null).
 - Include a README file with instructions on how to compile and run your parser.
 - Submit the report in a separate document (PDF or Markdown).
 - _Note:_ While you are encouraged to explore additional features and improvements beyond the basic requirements, make sure to prioritize the core functionality of parsing the chosen language's syntax.
+- Submission 
 
 #### Reference Code
 This reference code is only to give you an idea on how to start. 
