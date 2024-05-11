@@ -30,11 +30,13 @@ Design and implement a parser in Haskell for a programming language of your choi
 
 #### Submission Guidelines:
 
-- Submit your Haskell source code along with any necessary files for running the parser. To be submitted electronically via [AUMS](https://aumscb.amrita.edu/portal/site/67606/tool/5b707dc3-1d16-4617-a460-cb455024799a?null).
+- Submit your Haskell source code along with any necessary files for running the parser. To be submitted 
 - Include a README file with instructions on how to compile and run your parser.
 - Submit the report in a separate document (PDF or Markdown).
 - _Note:_ While you are encouraged to explore additional features and improvements beyond the basic requirements, make sure to prioritize the core functionality of parsing the chosen language's syntax.
-- Submission 
+- Submission electronically via [AUMS](https://aumscb.amrita.edu/portal/site/67606/tool/5b707dc3-1d16-4617-a460-cb455024799a?null).
+- **File Naming Convention:**
+  - Assignment02-CYS210XX_Parser.zip
 
 #### Reference Code
 This reference code is only to give you an idea on how to start. 
