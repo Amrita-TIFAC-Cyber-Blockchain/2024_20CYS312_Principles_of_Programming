@@ -3,11 +3,12 @@
 ![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange)
 
 ## Missed Mid-Term Question Paper with Solutions
+![](https://img.shields.io/badge/Missed_MidTerm_Exam-8th_May-orange)
 
 #### 1. Write the \textit{type signature} of the below functions.
-(a) drop   <br/>
-(b) map   <br/>
-(c) concat   <br/>
+(a) **drop:: Int -> [a] -> [a]**   <br/>
+(b) **map:: (a->b) -> [a] -> [b]**   <br/>
+(c) **concat:: [[a]] -> [a]**   <br/>
    
 #### 2. Write a function _pairwiseConcat_ in Haskell that takes two lists of strings and concatenates them pairwise. 
 If one list is longer than the other, the extra elements should be ignored.
@@ -21,17 +22,19 @@ Usage Example:
 
 **Solution:**
 ```
-
+pairwiseConcat :: [String] -> [String] -> [String]
+pairwiseConcat [] _ = []
+pairwiseConcat _ [] = []
+pairwiseConcat (x:xs) (y:ys) = (x ++ y) : pairwiseConcat xs ys
 ```
 
 #### 4. Write the equivalent to the following map and filter expression using list comprehension
 (a) map reverse (filter (even . length) strs) <br/>
 (b) map length (filter (\word → length word > 10) words)  <br/>
 
-
 **Solution:** <br/>
 (a) **[ reverse s | s ← strs, even (length s) ]** <br/>
-(b) **[ length word | word ← words, length word > 5 ]** <br/>
+(b) **[ length word | word ← words, length word > 10 ]** <br/>
 
 
 #### 6. Complete the Haskell implementation of BinaryTree and trace the output step by step. ????? should be filled to complete the program
@@ -43,14 +46,14 @@ data BinaryTree a = EmptyTree | Node a (BinaryTree a) (BinaryTree a) deriving (?
 
 -- Function to insert an element into a binary tree
 insert :: (Ord a) => a -> BinaryTree a -> BinaryTree a
-insert x ????? = Node x EmptyTree EmptyTree
+insert x EmptyTree = Node x EmptyTree EmptyTree
 insert x (Node a left right)
 | x == a = Node x left right
-| x ????? a = Node a (insert x left) right
-| x ????? a = Node a left (insert x right)
+| x < a = Node a (insert x left) right
+| x > a = Node a left (insert x right)
 
 -- Function to check if an element is present in the binary tree
-search :: (Ord a) => a -> BinaryTree a -> ?????
+search :: (Ord a) => a -> BinaryTree a -> Bool
 search _ EmptyTree = False
 search x (Node a left right)
 | x == a = True
@@ -59,7 +62,7 @@ search x (Node a left right)
 
 -- Usage
 examTree :: BinaryTree Int
-examTree = ????? insert EmptyTree [78, 14, 03, 89]
+examTree = foldr insert EmptyTree [78, 14, 03, 89]
 
 main :: IO ()
 main = do
@@ -70,7 +73,6 @@ putStrLn $ "Is 90 in the tree? " ++ show (search 90 examTree)
 
 #### 7. Identify the key characteristic of Haskell that underscores its focus on composing functions and data structures to create concise and expressive code
 **Solution:** Higher-order functions
-
 
 #### 8. Complete the following Haskell function _sumPositive_.
 ```
@@ -85,7 +87,9 @@ correctly calculate the sum of all positive elements in the given list ’xs’.
 ```
 **Solution:**
 ```
-
+sumPositive :: [Int] -> Int
+sumPositive [] = 0
+sumPositive (x:xs) = x + sumPositive xs
 ```
 
 #### 9. Given the following _data_ type declaration, What does the function getValue return when provided with 6 as input?
