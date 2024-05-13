@@ -1,5 +1,5 @@
 # 20CYS312 - Principles of Programming Languages ![](https://img.shields.io/badge/-Live-darkgreen)
-![](https://img.shields.io/badge/Batch-21CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-PPL-blue) <br/>
+![](https://img.shields.io/badge/Batch-21CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-PPL-blue)                   ![](https://img.shields.io/badge/Concern-Water_Scarcity-red) <br/>
 ![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) <br/> ![](https://img.shields.io/badge/Students-85-gold)
 
 #### Pre-requisite: 20CYS113 - Computer Programming and 19CSE201 - Advanced Programming
@@ -40,13 +40,9 @@
 | 10 | Rust: Data types, Operators, Decision Making, Loops | CO2 | |
 | 11 | Rust: Functions, Tuple and Array | CO2 | |
 | 12 | Rust: Ownership, Borrowing, Slices | CO2 | |
-| 13 | Rust: Structure, Modules, Collections | CO2 | |
-| **#**  | **Quiz - 3 and Lab Evaluation - 3** |
-| 14 | Rust:  Error Handling, File | CO2 | |
-| 15 | Rust: Input and Output, Package Manager | CO2 | |
-| 16 | Rust: Iterator and Closure | CO2 | |
-| 17 | Rust: References, Concurrency | CO2 | |
-| **#**  | **Quiz - 4  and Lab Evaluation - 4** |
+| 13 | Rust: Structure, Modules | CO2 | |
+| 14 | Rust:  Error Handling | CO2 | |
+| 15 | Rust: Package Manager | CO2 | |
 | **#**  | **End-Semester Examination** |
 
 ### Dates and Deadlines
@@ -57,16 +53,22 @@
 | **Assignment - 1: Submission** | 21 - Jan - 2024 |
 | **Haskell Practice Exercise - 1: Opens** | 24 - Jan - 2024 |
 | **Haskell Practice Exercise - 1: Submission** | 27 - Jan - 2024 |
-| Haskell Quiz - 1 | 13 - Feb - 2024 |
-| Haskell Lab Evaluation - 1 | 13 - Feb - 2024 |
-| Assignment - 2: Opens | 16 - Feb - 2024 |
-| Haskell Practice Exercise - 2 | 27 - Feb - 2024 |
-| Haskell Quiz - 2 | 5 - Mar - 2024 |
-| Haskell Lab Evaluation - 2 | 5 - Mar - 2024 |
-| Assignment - 2: Submission | 13 - Mar - 2024 |
+| Haskell Quiz - 1 | 16 - Feb - 2024 |
+| Haskell Lab Evaluation - 1 | 28 - Feb - 2024 |
+| **Haskell Practice Exercise - 2: Opens** | 23 - Feb - 2024 |
+| **Haskell Practice Exercise - 2: Submission** | 26 - Feb - 2024 |
+| Haskell Quiz - 2 | 13 - Mar - 2024 |
+| Haskell Lab Evaluation - 2 | 13 - Mar - 2024 |
+| Haskell Tutorial - 1: Opens | 14 - Mar - 2024 | 
+| Haskell Tutorial - 1: Submission | 15 - Mar - 2024 | 
+| Haskell Tutorial - 1: Opens | 22 - Mar - 2024 | 
+| Haskell Tutorial - 1: Submission | 27 - Mar - 2024 | 
 | Mid-Term Exam | 24 - Apr - 2024 |
-| Rust |  TBD |
-| End Semester Exam | 29 - May - 2024 |
+| Assignment - 2: Opens | 29 - Apr - 2024 |
+| Assignment - 2: Submission | 11 - May - 2024 |
+| Rust Quiz - 3 | 11 - May - 2024 |
+| End Semester Exam | 15 - May - 2024 |
+| Results Publication | 19 - Jun - 2024 |
 
 ## Haskell
 - [Installation](https://www.haskell.org/ghcup/)
