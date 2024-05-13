@@ -111,35 +111,6 @@ front :: Queue a -> Maybe a
 front (Queue [])    = Nothing
 front (Queue (x:_)) = Just x
 
-main :: IO ()
-main = do
-    let emptyQueue = Queue ([] :: [Int])
-    let queue1 = enqueue 1 emptyQueue
-    let queue2 = enqueue 2 queue1
-
-    putStrLn "Testing Queue Implementation:"
-    putStrLn "Initial queue:"
-    putStrLn $ "Is empty? " ++ show (isEmpty emptyQueue)
-    putStrLn $ "Front element: " ++ show (front emptyQueue)
-    putStrLn ""
-
-    putStrLn "After enqueueing 1:"
-    putStrLn $ "Is empty? " ++ show (isEmpty queue1)
-    putStrLn $ "Front element: " ++ show (front queue1)
-    putStrLn ""
-
-    putStrLn "After enqueueing 2:"
-    putStrLn $ "Is empty? " ++ show (isEmpty queue2)
-    putStrLn $ "Front element: " ++ show (front queue2)
-    putStrLn ""
-
-    putStrLn "Dequeueing:"
-    case dequeue queue2 of
-        Just (element, newQueue) -> do
-            putStrLn $ "Dequeued element: " ++ show element
-            putStrLn $ "New front element: " ++ show (front newQueue)
-            putStrLn $ "Is empty? " ++ show (isEmpty newQueue)
-        Nothing -> putStrLn "Queue is empty"
 ```
 
 #### 8. Which of the following is NOT a key characteristic of Haskell?
