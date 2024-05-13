@@ -4,7 +4,7 @@
 
 ## Mid-Term Question Paper with Solutions
 
-#### 1. Write the \textit{type signature} of the below functions.
+#### 1. Write the _type signature_ of the below functions.
 (a) **zip :: [a] → [b] → [(a, b)]** <br/>
 (b) **filter :: (a → Bool) → [a] → [a]**
 
@@ -29,6 +29,8 @@ pairswap:: [a] -> [a]
 pairswap [ ] = [ ]
 pairswap (x:y:xs) = y:x:pairswap(xs)
 ```
+More variants of the solutions [here](Q3). <br/>
+Successfully solved by [Aishwarya G](), [Dyanesh S](), [Aravind S](), [Ashwin Anand](), [S Dharmik](), [Gokul](), [M N Ravi](), [Yaswanth G](), [Nithin S](), [Siddharth Krishna](), [Rakshan K](), [PVS Ganasekhar](). [GH Hemsagar]() and [P Jivan Prasadd]() with minor mistakes.
 
 #### 5. Write the expression equivalent to the following list comprehension using map and/or filter.
 (a) [ reverse s | s ← strs, even (length s) ] <br/>
@@ -155,7 +157,7 @@ findMax (x:xs) = ???
 ```
 **Solution:**
 ```
-findMax :: [Int] \rightarrow Int
+findMax :: [Int] -> Int
 findMax [x] = x
 findMax (x:xs) = max$ x (findMax xs)
 ```
