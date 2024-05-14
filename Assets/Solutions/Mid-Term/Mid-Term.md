@@ -17,11 +17,11 @@
 #### 3. Write a function '_pairswap_' that swaps the elements of a list on a pair-wise basis.
 Assumption: the list has an even number of elements. 
 Usage Example:
- 1.  \> _pairswap_ [1..6]
+ 1.  \> _pairswap_ [1..6] <br/>
        [2,1,4,3,6,5]
- 2.  \> _pairswap_ "ammu"
+ 2.  \> _pairswap_ "ammu"<br/>
        "maum"
- 3.  \> _pairswap_ []
+ 3.  \> _pairswap_ [] <br/>
        []
 
 **Solution:**
@@ -135,5 +135,6 @@ findMax (x:xs) = ???
 ```
 findMax :: [Int] -> Int
 findMax [x] = x
-findMax (x:xs) = max$ x (findMax xs)
+findMax (x:xs) = max x (findMax xs)
 ```
+More variants of the solutions [here](Q10). <br/>
