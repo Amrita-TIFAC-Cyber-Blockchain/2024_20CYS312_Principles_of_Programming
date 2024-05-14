@@ -5,19 +5,19 @@
 ## Missed Mid-Term Question Paper with Solutions
 ![](https://img.shields.io/badge/Missed_MidTerm_Exam-8th_May-orange)
 
-#### 1. Write the \textit{type signature} of the below functions.
+#### 1. Write the _type signature_ of the below functions.
 (a) **drop:: Int -> [a] -> [a]**   <br/>
 (b) **map:: (a->b) -> [a] -> [b]**   <br/>
 (c) **concat:: [[a]] -> [a]**   <br/>
    
 #### 2. Write a function _pairwiseConcat_ in Haskell that takes two lists of strings and concatenates them pairwise. 
-If one list is longer than the other, the extra elements should be ignored.
-Usage Example:
- 1.  \> _pairwiseConcat_ [”a”, ”b”, ”c”] [”x”, ”y”, ”z”]
+If one list is longer than the other, the extra elements should be ignored. <br/> 
+_Usage Example:_
+ 1.  \> _pairwiseConcat_ [”a”, ”b”, ”c”] [”x”, ”y”, ”z”]  <br/>
        [”ax”, ”by”, ”cz”]
- 2.  \> _pairwiseConcat_ [”hello”, ”world”] [”!”, ”?”, ”!!”]
+ 2.  \> _pairwiseConcat_ [”hello”, ”world”] [”!”, ”?”, ”!!”]  <br/>
        ["hello!", "world?"]
- 3.  \> pairwiseConcat [] [”a”, ”b”, ”c”]
+ 3.  \> pairwiseConcat [] [”a”, ”b”, ”c”]  <br/>
        []
 
 **Solution:**
@@ -71,6 +71,26 @@ putStrLn $ "Is 89 in the tree? " ++ show (search 89 examTree)
 putStrLn $ "Is 90 in the tree? " ++ show (search 90 examTree)
 ```
 
+**Tracing:**
+- foldr insert EmptyTree [78, 14, 03, 89]
+   - **insert 89 EmptyTree**
+      -  (Node 89 EmptyTree EmptyTree)
+   -  **insert 03 (Node 89 EmptyTree EmptyTree)**
+      -  03 < 89 = True
+         -  Node 89 (insert 03 EmptyTree) EmptyTree
+            -  (Node 89 (Node 03 EmptyTree EmptyTree) EmptyTree)
+   -  **insert 14 (Node 89 (Node 03 EmptyTree EmptyTree) EmptyTree)**
+      -  14 < 89 = True
+         -  Node 89 (insert 14 (Node 03 EmptyTree EmptyTree)) EmptyTree
+            -  14 > 03 = True
+               -  Node 03 EmptyTree (insert 14 EmptyTree)
+               -  Node 03 EmptyTree (Node 14 EmptyTree EmptyTree)
+         -  (Node 89 (Node 03 EmptyTree (Node 14 EmptyTree EmptyTree)) EmptyTree)
+   -  **insert 78 (Node 89 (Node 03 EmptyTree (Node 14 EmptyTree EmptyTree)) EmptyTree)**
+      -  78 < 89 = True
+         -   complete it....
+      -   **Node 89 (Node 3 EmptyTree (Node 14 EmptyTree (Node 78 EmptyTree EmptyTree))) EmptyTree**
+
 #### 7. Identify the key characteristic of Haskell that underscores its focus on composing functions and data structures to create concise and expressive code
 **Solution:** Higher-order functions
 
@@ -89,7 +109,9 @@ correctly calculate the sum of all positive elements in the given list ’xs’.
 ```
 sumPositive :: [Int] -> Int
 sumPositive [] = 0
-sumPositive (x:xs) = x + sumPositive xs
+sumPositive (x:xs)
+    | x > 0     = x + sumPositive xs
+    | otherwise = sumPositive xs
 ```
 
 #### 9. Given the following _data_ type declaration, What does the function getValue return when provided with 6 as input?
