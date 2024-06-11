@@ -41,7 +41,7 @@ Successfully solved by [Aishwarya G](), [Dyanesh S](), [Aravind S](), [Ashwin An
 
 **Solution:** <br/>
 (a) **map reverse (filter (even . length) strs)** <br/>
-(b) **map length (filter (\word → length word > 10) words)** <br/>
+(b) **map length (filter (\word → length word > 5) words)** <br/>
 (c) **map (\x -> (x, 6 - x)) (filter (\x -> x + (6 - x) == 6) [1..5])**<br/>
 (d) **map (^2) (filter even [1..10])** <br/>
 
