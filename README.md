@@ -2,7 +2,8 @@
 ![](https://img.shields.io/badge/Batch-21CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-PPL-blue)                   ![](https://img.shields.io/badge/Concern-Water_Scarcity-red) <br/>
 ![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) <br/> ![](https://img.shields.io/badge/Students-85-gold) <br/> 
 ![](https://img.shields.io/badge/Pass_Percent-92.94-darkgreen) ![](https://img.shields.io/badge/Average_Marks-56.52-blue) <br/> 
-![](https://img.shields.io/badge/Course_Outcome_Attainment-TBD-blue) ![](https://img.shields.io/badge/Course_Feedback-TBD-blue) ![](https://img.shields.io/badge/TLP_Feedback-TBD-blue) 
+![](https://img.shields.io/badge/Course_Outcome_Attainment-TBD-blue) ![](https://img.shields.io/badge/TLP_Feedback-83.08-blue) 
+![](https://img.shields.io/badge/Course_Feedback-82.80-blue) 
 
 #### Pre-requisite: 20CYS113 - Computer Programming and 19CSE201 - Advanced Programming
 
